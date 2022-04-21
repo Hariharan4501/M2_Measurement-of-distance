@@ -15,7 +15,7 @@ The requirements for the program to run or for the code to be in effect are basi
 
 
 
-## a) HARDWARE :-
+## a) SOFTWARE :-
 #### 1] SimulIDE:
       - SimulIDE provides AVR, Arduino and PIC microcontrollers that can be accessed just like other components. 
       - Features like gpsim and simavr allow you to use PIC and AVR microcontrollers, respectively.
@@ -23,7 +23,7 @@ The requirements for the program to run or for the code to be in effect are basi
       - An automatic voltage regulator (AVR) is an electronic device that maintains a constant voltage level to electrical equipment on the same load.
       - The AVR regulates voltage variations to deliver constant, reliable power supply.
 
-## b) SOFTWARE :-
+## b) HARDWARE :-
 #### 1] ATmega328:
       - ATmega328 is commonly used in many projects and autonomous systems where a simple, low-powered, low-cost micro-controller is needed
       - Perhaps the most common implementation of this chip is on the popular Arduino development platform.
